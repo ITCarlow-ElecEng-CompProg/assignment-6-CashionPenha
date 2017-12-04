@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507736417 source:c:\users\stany\desktop\ee yr 2\computer programming\lab 6\lab 6\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
